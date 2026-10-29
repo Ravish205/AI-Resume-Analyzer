@@ -1,0 +1,47 @@
+Alex Rivera
+Software Engineer
+Email: alex.rivera@example.com | Phone: (555) 234-5678
+LinkedIn: https://linkedin.com/in/alex-rivera-dev | GitHub: https://github.com/alexrivera-codes
+Austin, TX
+
+PROFESSIONAL SUMMARY
+Results-driven Software Engineer with 4 years of experience building scalable backend microservices, robust REST APIs, and automated data pipelines. Adept in Python, SQL, Git version control, and containerized deployment. Known for strong cross-functional communication and collaborative problem solving in Agile environments.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, Bash / Shell, JavaScript
+- Frameworks & Libraries: FastAPI, Flask, Django, Pandas, NumPy
+- Databases & Storage: PostgreSQL, MySQL, Redis
+- Cloud & DevOps: Docker, CI/CD, GitHub Actions, Linux
+- Tools & Methodologies: Git, REST APIs, Agile, Unit Testing, Postman
+- Core Competencies: Cross-functional Communication, Problem Solving, Code Review
+
+WORK EXPERIENCE
+
+Software Engineer | CloudScale Systems | Austin, TX
+June 2022 - Present
+- Architected and deployed 12+ high-throughput REST APIs using Python and FastAPI, handling 4.5 million daily requests with 99.98% uptime.
+- Optimized complex PostgreSQL and SQL queries and implemented Redis caching, reducing average response latency by 42%.
+- Streamlined deployment pipelines by authoring Docker containers and automated CI/CD workflows using GitHub Actions.
+- Collaborated with product managers and frontend teams, communicating architectural designs clearly during sprint planning sessions.
+- Mentored 3 junior developers in Git branching workflows, test-driven development, and Python best practices.
+
+Junior Backend Developer | DataFlow Labs | Dallas, TX
+January 2021 - May 2022
+- Developed scalable ETL data processing pipelines in Python, processing over 800,000 transaction records daily.
+- Integrated relational SQL databases with internal reporting dashboards, cutting manual data reconciliation time by 30 hours per month.
+- Authored comprehensive unit testing suites using pytest, achieving 88% test coverage across core backend services.
+- Participated actively in weekly Agile ceremonies, standups, and retrospective meetings.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin
+Graduation: May 2020
+
+PROJECTS
+- Distributed Task Orchestrator: Built an asynchronous distributed job queue in Python using Redis and Docker; published as open-source library on GitHub with 250+ stars.
+- Real-Time Analytics API: Designed RESTful microservices for streaming telemetry data, handling up to 15,000 events per second.
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner
+- Professional Git & GitHub Workflow Specialist
+

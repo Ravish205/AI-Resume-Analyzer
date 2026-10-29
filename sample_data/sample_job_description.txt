@@ -1,0 +1,30 @@
+Position: Python Developer / Backend Engineer
+Company: InnovateTech AI Solutions
+Location: Austin, TX (Hybrid)
+
+About the Role:
+We are seeking a talented Python Developer to join our growing engineering team. In this role, you will design and develop resilient backend services, integrate cloud-native microservices, and collaborate closely with our data science colleagues to incorporate intelligent machine learning models into customer-facing applications.
+
+Key Responsibilities:
+- Design, build, and maintain efficient, scalable, and secure REST APIs and microservices using Python.
+- Write robust SQL queries, optimize relational database performance, and maintain clean data models.
+- Implement version control best practices using Git and manage continuous integration pipelines.
+- Partner with machine learning engineers to deploy and serve ML models in production environments.
+- Articulate technical concepts clearly through strong written and verbal communication with cross-functional stakeholders.
+- Participate in code reviews, architectural discussions, and Agile sprint ceremonies.
+
+Requirements:
+- Bachelor's degree in Computer Science, Software Engineering, or related technical field.
+- 3+ years of professional backend software development experience with Python.
+- Proven expertise in relational databases, data modeling, and writing complex SQL queries.
+- Strong hands-on experience designing and consuming REST APIs.
+- Proficient in version control using Git and collaborative branching workflows.
+- Working knowledge or foundational understanding of Machine Learning principles and data workflows.
+- Excellent communication and interpersonal skills with a team-first collaborative mindset.
+
+Preferred Qualifications:
+- Familiarity with containerization tools such as Docker and Kubernetes.
+- Experience with FastAPI, Django, or Flask web frameworks.
+- Exposure to cloud platforms such as AWS or GCP.
+- Familiarity with CI/CD automation pipelines and unit testing suites.
+

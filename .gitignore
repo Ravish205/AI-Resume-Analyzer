@@ -1,0 +1,36 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+.env.local
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build & distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Streamlit local state
+.streamlit/secrets.toml
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
